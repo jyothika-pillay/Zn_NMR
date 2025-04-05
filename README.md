@@ -1,1 +1,1 @@
-# Zn_NMR
+Machine Learning DFT
